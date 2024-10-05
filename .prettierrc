@@ -4,10 +4,10 @@
   "bracketSpacing": true,
   "endOfLine": "auto",
   "jsxSingleQuote": false,
-  "printWidth": 100,
+  "printWidth": 80,
   "quoteProps": "as-needed",
   "semi": true,
-  "singleQuote": false,
+  "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "all",
   "useTabs": false
